@@ -1,6 +1,7 @@
 - 👋 Hi, I’m JungSteel
 - 🌍 I'm french but i can speak english too (u can see it, I think...)
-- 👀 I’m interested in coding video games
-- 🌱 I’m currently learning Python, for the moment guys...
+- 👀 I’m interested in coding websites and application
+- 🌱 I’m currently learning Java
+- 📋 I can code in Python, C, HTML/CSS/JS and PL/SQL
 - 💞️ I’m looking to collaborate on nothing (leave me alone)
-- 📫 How to reach me, u can't lol
+- 📫 How to reach me ? u can't lol
